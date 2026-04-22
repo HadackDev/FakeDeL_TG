@@ -1,0 +1,2 @@
+@echo off
+start "" "C:\Users\%USERNAME%\AppData\Roaming\Telegram Desktop\Telegram.exe" -workdir "Telegram Desktop" -proxy "mtproto://peyk.acharbashi.info:4515?secret=6973636f7474692e79656b74616e65742e636f6d"
